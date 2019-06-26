@@ -17,9 +17,9 @@ In the web scraping notebook, you will find it divided into small working functi
 
 In this part, I had to clean and prepare scrapped text data indeed and put the data into a proper structure for modelling.
 Also, in this section, I decided to proceed using a classification model; consequently, i divided the salary into three categories :
-Cat 0 - less Than 85k
-Cat 1 - Between 85k and 120k
-Cat 2 - More than 120k
+- Cat 0 - less Than 85k
+- Cat 1 - Between 85k and 120k
+- Cat 2 - More than 120k
 hence, this was my way to go to Modeling step
 
 ### 3. NLP Modelling 
