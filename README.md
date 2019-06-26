@@ -22,7 +22,7 @@ Also, in this section, I decided to proceed using a classification model; conseq
 - Cat 2 - More than 120k
 hence, this was my way to go to Modeling step
 
-### 3. NLP Modelling 
+### 3. Modelling 
 In this part, I wanted to build a classification model to classify salary based on job summary. I started with a NaiveBase  Classifier with TfidfVectorizer and CountVectorizer to compare performance, and surprisingly, CountVectorizer gave me better results.
 Then I wanted to improve my prediction, so I feed my data to a pipeline using Logistic Regression and Stochastic Gradient Descent (SGD) with a grid search to tune hyperparameters.
 
